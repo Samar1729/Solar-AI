@@ -1,53 +1,53 @@
 # Solar-AI: AI-Powered Solar Panel Fault Detection & Power Prediction
 
-##  Overview
+## Overview
 
 Solar-AI is an end-to-end Artificial Intelligence project designed to improve the efficiency and reliability of solar power systems. The project combines **computer vision** for solar panel fault detection and **machine learning** for solar power generation prediction, helping operators monitor panel health and estimate energy output accurately.
 
 ---
 
-##  Features
+## Features
 
-*  Detects faults in solar panels using deep learning.
-*  Predicts solar power generation using machine learning.
-*  Interactive dashboard for visualization.
-*  Performance metrics and model evaluation.
-*  Easy deployment using Streamlit/FastAPI.
+- Detects faults in solar panels using deep learning.
+- Predicts solar power generation using machine learning.
+- Interactive dashboard for visualization.
+- Performance metrics and model evaluation.
+- Easy deployment using Streamlit/FastAPI.
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 ### Programming Language
 
-* Python
+- Python
 
 ### Machine Learning
 
-* LightGBM
-* Scikit-learn
+- LightGBM
+- Scikit-learn
 
 ### Deep Learning
 
-* TensorFlow
-* Keras
-* VGG16 (Transfer Learning)
+- TensorFlow
+- Keras
+- VGG16 (Transfer Learning)
 
 ### Data Processing
 
-* NumPy
-* Pandas
+- NumPy
+- Pandas
 
 ### Visualization
 
-* Matplotlib
-* Plotly
+- Matplotlib
+- Plotly
 
 ### Web Application
 
-* Streamlit
-* FastAPI
-* Uvicorn
+- Streamlit
+- FastAPI
+- Uvicorn
 
 ---
 
@@ -73,7 +73,7 @@ Solar-AI/
 
 ---
 
-##  Installation
+## Installation
 
 Clone the repository:
 
@@ -110,7 +110,7 @@ pip install -r requirements.txt
 
 ---
 
-##  Running the Project
+## Running the Project
 
 Start the Streamlit application:
 
@@ -126,55 +126,53 @@ uvicorn app:app --reload
 
 ---
 
-##  Model Performance
+## Model Performance
 
 ### Solar Power Prediction
 
-* Model: LightGBM Regressor
-* Evaluation Metrics:
-
-  * RMSE
-  * MAE
-  * R² Score
+- Model: LightGBM Regressor
+- Evaluation Metrics:
+  - RMSE
+  - MAE
+  - R² Score
 
 ### Fault Detection
 
-* Model: VGG16 Transfer Learning
-* Metrics:
-
-  * Accuracy
-  * Precision
-  * Recall
-  * F1 Score
-
----
-
-##  Sample Outputs
-
-* Solar panel fault classification
-* Predicted power generation graphs
-* Interactive dashboard
-* Model evaluation plots
+- Model: VGG16 Transfer Learning
+- Metrics:
+  - Accuracy
+  - Precision
+  - Recall
+  - F1 Score
 
 ---
 
-##  Applications
+## Sample Outputs
 
-* Solar farm monitoring
-* Predictive maintenance
-* Renewable energy analytics
-* Smart grid management
-* Industrial solar installations
+- Solar panel fault classification
+- Predicted power generation graphs
+- Interactive dashboard
+- Model evaluation plots
 
 ---
 
-##  Future Improvements
+## Applications
 
-* Real-time IoT integration
-* Weather API support
-* Edge AI deployment
-* Mobile application
-* Explainable AI (XAI)
+- Solar farm monitoring
+- Predictive maintenance
+- Renewable energy analytics
+- Smart grid management
+- Industrial solar installations
+
+---
+
+## Future Improvements
+
+- Real-time IoT integration
+- Weather API support
+- Edge AI deployment
+- Mobile application
+- Explainable AI (XAI)
 
 ---
 
@@ -192,11 +190,10 @@ Contributions are welcome.
 
 ## Author
 
-**Shashi Bhushan Raj**
+**Samar Anand**
 
-* Electronics and Communication Engineering
-* AI | Machine Learning | Data Science
-* GitHub: https://github.com/ShashiBhushanRaj
+- AI | Machine Learning | Data Science
+- GitHub: https://github.com/Samar1729
 
 ---
 
